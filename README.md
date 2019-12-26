@@ -40,7 +40,7 @@ print("==================================================================")
 
 
 
-![input](https://github.com/mastio1836/Labspy5/blob/master/Gambar/pict%202%20ralat.png)
+![input](https://github.com/ikmalriyan21/Labspy-5/blob/master/Gambar/praktikum5%20(1).png)
 
 
 .Screenshot Ouput
