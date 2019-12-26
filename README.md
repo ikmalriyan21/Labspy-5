@@ -53,7 +53,7 @@ print("==================================================================")
 .Flowchart
 
 
-![flowchart](https://github.com/ikmalriyan21/Labspy-5/blob/master/Gambar/Flowchart%2001.pptx)
+![flowchart](https://github.com/ikmalriyan21/Labspy-5/blob/master/Gambar/Flowchart%2001.png)
 
 
 
