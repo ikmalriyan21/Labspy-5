@@ -35,7 +35,7 @@ print("==================================================================")
 .Screenshot Input
 
 
-![input](https://github.com/mastio1836/Labspy5/blob/master/Gambar/pict%201%20Ralat.png)
+![input](https://github.com/ikmalriyan21/Labspy-5/blob/master/Gambar/praktikum5.png)
 
 
 
