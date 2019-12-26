@@ -46,7 +46,7 @@ print("==================================================================")
 .Screenshot Ouput
 
 
-![output](https://github.com/mastio1836/Labspy5/blob/master/Gambar/pict%203.png)
+![output](https://github.com/ikmalriyan21/Labspy-5/blob/master/Gambar/praktikum5%20(2).png)
 
 
 
@@ -54,15 +54,5 @@ print("==================================================================")
 
 
 ![flowchart](https://github.com/mastio1836/Labspy5/blob/master/Gambar/flowchart.PNG)
-
-
-
-
-
-
-
-
-
-
 
 
